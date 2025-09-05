@@ -1,7 +1,7 @@
 [
   {
     "name": "boot",
-    "url": "https://commadist.azureedge.net/agnosupdate/boot-b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a.img.xz",
+    "url": "https://www.dropbox.com/scl/fi/3suwfqmdlzc38g7xuvr5o/boot-b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a.img.xz?rlkey=qrwjyq80k6giqfrfvcxg4ksrk&st=l6xdfcxg&dl=1",
     "hash": "b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a",
     "hash_raw": "b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a",
     "size": 16029696,
@@ -9,7 +9,7 @@
     "full_check": true,
     "has_ab": true,
     "alt": {
-      "url": "https://www.dropbox.com/scl/fi/3suwfqmdlzc38g7xuvr5o/boot-b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a.img.xz?rlkey=qrwjyq80k6giqfrfvcxg4ksrk&st=l6xdfcxg&dl=1"
+      "url": "https://commadist.azureedge.net/agnosupdate/boot-b997aae3f1c93de82449ef7f23f30ff482b0978f3d0ac08219366f9ce362ad7a.img.xz"
     }
   },
   {
@@ -64,7 +64,7 @@
   },
   {
     "name": "system",
-    "url": "https://commadist.azureedge.net/agnosupdate/system-be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782.img.xz",
+    "url": "https://www.dropbox.com/scl/fi/8t90znjctm6s5zrlyidgo/system-be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782.img.xz?rlkey=4k2oem9yyc85n6qr4nycyj3gn&st=xgqlzllp&dl=1",
     "hash": "be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782",
     "hash_raw": "be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782",
     "size": 10737418240,
@@ -72,7 +72,7 @@
     "full_check": false,
     "has_ab": true,
     "alt": {
-      "url": "https://www.dropbox.com/scl/fi/8t90znjctm6s5zrlyidgo/system-be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782.img.xz?rlkey=4k2oem9yyc85n6qr4nycyj3gn&st=xgqlzllp&dl=1"
+      "url": "https://commadist.azureedge.net/agnosupdate/system-be1c6bb9ee5e06779087b1b81e09b6df61d942566b0f8d4539c452179c661782.img.xz"
     }
   }
 ]
